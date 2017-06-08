@@ -15,8 +15,8 @@ We are also going to learn how to combine data stored in separate tables.</p>
 ### Week 4 Queries to Address More Detailed Business Questions
 <p>the final week of Managing Big Data with MySQL! This week you will practice integrating the SQL syntax you’ve learn so far into queries that address analysis questions typical of those you will complete as a business data analyst.</p>
 
-*[Week 4](https://github.com/Jai4/SQL/tree/master/src/Course4/Week4)
+* [Week 4](https://github.com/Jai4/SQL/tree/master/src/Course4/Week4)
 
 ### Week 5 Strengthen and Test Your Understanding
 
-*[Week 5](https://github.com/Jai4/SQL/tree/master/src/Course4/Week5)
+* [Week 5](https://github.com/Jai4/SQL/tree/master/src/Course4/Week5)
